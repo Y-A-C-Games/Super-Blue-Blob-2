@@ -1,2 +1,2 @@
-# Super-Blue-Blob-2-V-1.0.1
+# Super-Blue-Blob-2
 Files behind SBB2
